@@ -1,0 +1,4 @@
+access tokn - ztsZzjjI8JdBwKYEVzDur5DCMzrel86R
+workspaceid - 8623b920-0552-437a-ac94-507adbba8b51_workspace
+
+llama2-7bb-chart
